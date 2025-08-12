@@ -1,3 +1,5 @@
+<p  align="center"> <img alt='coding' src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" /> </p>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pradeepsakthi_20_2004) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pradeep-sakthi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:spradeepsakthi2004@gmail.com) 
